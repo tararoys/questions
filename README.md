@@ -62,6 +62,14 @@ questions
 
 - [How do you go about googling]()
   - Zach: Get as specific as you can with your thorough debugging process.
+ 
+- [How do you go about googling]()
+  - Get as specific as you can with your thorough debugging process. 
+
+- [No Method Error on Nil class](http://www.ruby-doc.org/core-2.1.0/NoMethodError.html)
+  -really general errors are hard to debug.  
+
+
 
 
 
