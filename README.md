@@ -29,5 +29,24 @@ questions
 -[how to launch google chrome on ubuntu](http://ubuntuforums.org/showthread.php?t=1385182)
   - <code>google-chrome www.girlgenius.com</code>
   - New question: how to launch google chrome with local webpage? 
-  
-  
+ 
+-[how do I debug a sinatra skeleton?](https://github.com/tararoys/DBC_Sinatra_Skeleton)
+   -zach: use the following gems.
+      - In Gemfile: 
+      
+      ```ruby
+      gem 'pry'
+      gem 'pry-nav'
+      ``` 
+      
+      - In config/environment.rb
+      
+      ```ruby
+      require 'pry'
+      require 'pry-nav'
+      ``` 
+      
+      - In the place you wish do debug, 
+      ```ruby
+      binding.pry #dumps you into a console at that exact point in your program.
+      ```
