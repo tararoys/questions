@@ -26,11 +26,11 @@ questions
   - analogy: A webpage is like a really annoying prank present given to you by friends with way too much time on their hands.  Why? Because they give you a giant box which is actually filled with more boxes, some of which are filled with more boxes.  For some reason, they decided to call this setup a tree, because to mathemeticains the process of opening boxes within boxes is sort of like watching a squirrel run up and down different branches of a tree.  So...in order to get to the href, I need to get to the the li box that it is in, open the li box, find the a box, open the a box, and find the href widget inside the box. Fortunatley I have a robot called Jquery to do this for me, and all I have to tell him is "get me the first li, get get it's first child, and tell me what is in the href!
  
 
--[how to launch google chrome on ubuntu](http://ubuntuforums.org/showthread.php?t=1385182)
+- [how to launch google chrome on ubuntu](http://ubuntuforums.org/showthread.php?t=1385182)
   - <code>google-chrome www.girlgenius.com</code>
   - New question: how to launch google chrome with local webpage? 
  
--[how do I debug a sinatra skeleton?](https://github.com/tararoys/DBC_Sinatra_Skeleton)
+- [how do I debug a sinatra skeleton?](https://github.com/tararoys/DBC_Sinatra_Skeleton)
    -zach: use the following gems.
    - In Gemfile: 
       
@@ -48,7 +48,7 @@ questions
         binding.pry #dumps you into a console at that exact point in your program.
 
 
--[how do you do error driven development (EDD) with sinatra routes?]()
+- [how do you do error driven development (EDD) with sinatra routes?]()
    - Workflow
      - Set up a route that returns a view
      - check in the browser to see if that route returns that view
