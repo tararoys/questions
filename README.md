@@ -60,3 +60,8 @@ questions
 - [How do you quickly find the solutions to problems you know you've solved before?]()
    - Zach: [pocket stores things so that you can read it later](http://getpocket.com/) 
 
+- [How do you go about googling]()
+  - Zach: Get as specific as you can with your thorough debugging process.
+
+
+
