@@ -71,6 +71,9 @@ questions
 - [No Method Error on Nil class](http://www.ruby-doc.org/core-2.1.0/NoMethodError.html)
   -really general errors are hard to debug.  
 
+- [How to search with grep in a directory?](Ksolo)
+    <code> grep -r READ -i ./ </code>
+
 
 
 
