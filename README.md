@@ -16,4 +16,7 @@ questions
   - The best place for jquery documentation.
   - This is intimidating and I need more practice reading it. 
  
+- [Find information on Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+   - This is the best place for javascript documentation (according to Alyssa) 
+ 
 
