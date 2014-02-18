@@ -11,3 +11,9 @@ questions
    - Method for finding out: <code> git log --help </code>  
       - This is the log manual. It is an intimidating wall of text. To find stuff, when in the log, press <code> /oneline </code> to find all of the times  'oneline' appears.  
       - I prefer <code git log --help | grep online </code>  This is a minature google:  <code> | grep oneline </code> finds all of the lines containing the word online.
+
+- [Find information on Jquery](http://jquery.com/)
+  - The best place for jquery documentation.
+  - This is intimidating and I need more practice reading it. 
+ 
+
