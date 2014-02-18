@@ -58,5 +58,5 @@ questions
    - Is there a more efficient way of doing this?  Zach: This is called integration testing, and the framework to test this is called Selinuium. 
 
 - [How do you quickly find the solutions to problems you know you've solved before?]()
-   -Zach: (pocket stores things so that you can read it later)[http://getpocket.com/] 
+   - Zach: [pocket stores things so that you can read it later](http://getpocket.com/) 
 
