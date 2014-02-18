@@ -32,21 +32,19 @@ questions
  
 -[how do I debug a sinatra skeleton?](https://github.com/tararoys/DBC_Sinatra_Skeleton)
    -zach: use the following gems.
-      - In Gemfile: 
+   - In Gemfile: 
       
-      ```ruby
-      gem 'pry'
-      gem 'pry-nav'
-      ``` 
+        gem 'pry'
+        gem 'pry-nav'
+       
       
-      - In config/environment.rb
+   - In config/environment.rb
       
-      ```ruby
-      require 'pry'
-      require 'pry-nav'
-      ``` 
+        require 'pry'
+        require 'pry-nav'
       
-      - In the place you wish do debug, 
-      ```ruby
-      binding.pry #dumps you into a console at that exact point in your program.
-      ```
+   - In the place you wish do debug, 
+    
+        binding.pry #dumps you into a console at that exact point in your program.
+
+
