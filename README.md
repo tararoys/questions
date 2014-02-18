@@ -13,9 +13,11 @@ questions
       - This is the log manual. It is an intimidating wall of text. To find stuff, when in the log, press <code> /oneline </code> to find all of the times  'oneline' appears.  
       - I prefer <code git log --help | grep online </code>  This is a minature google:  <code> | grep oneline </code> finds all of the lines containing the word online.
 
-- [Find information on Jquery](http://jquery.com/)
-  - The best place for jquery documentation.
+- [Find information on Jquery](http://jquery.com/) 
+  - Where is the best place for beginner-level documentation?  Jess: Codecademy
+  - The best place for jquery documentation for advanced people are the docs. 
   - This is intimidating and I need more practice reading it. 
+  - jquery verbs...say what you are trying to do in English, and you'll probably find a method of the same name.  
  
 - [Find information on Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
    - This is the best place for javascript documentation (according to Alyssa) 
