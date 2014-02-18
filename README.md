@@ -5,7 +5,11 @@ questions
    - Erroring Code: <code>$('div')[0].addClass('hi') </code>
    - <code> $('div') </code> returns a Jquery object. The jquery object has a list of html elements. <code> [0] </code> selects an html element.  You cannot add a class to this html element because addClass is a jquery object method and <code> $('div')[0] </code> is no longer a jquery object.  To turn <code> $('div')[0] </code> back into a jquery object, wrap it in <code> $() </code>.  So it looks like this: <code> $($('div')[0]) </code>.  You can now do <code> $($('div')[0]).addclass('hi') </code>.  
    - This is horribly unreadable. I recommend setting $('div')[0] to mydiv and doing $(mydiv).addClass('hi')  
-   - What exactly does wrapping an html element inside $() do?  What is the concept behind this magic formula? 
+
+ - [What are you doing when you stick an html object in $()?]()
+  - You are giving a html object superpowers.  R2d2 is an html element.  He is much more powerful when inside an x-wing.  wrapping an html object in jquery is sticking R2D@ in an xwing.
+
+
 
 - [Show only the first line of a git commit in the log]()
    - <code> git log --pretty=oneline </code>
@@ -73,8 +77,6 @@ questions
 
 - [How to search with grep in a directory?](Ksolo)
     <code> grep -r READ -i ./ </code>
-
-
 
 
 
