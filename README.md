@@ -48,3 +48,11 @@ questions
         binding.pry #dumps you into a console at that exact point in your program.
 
 
+-[how do you do error driven development (EDD) with sinatra routes?]()
+   - Workflow
+     - Set up a route that returns a view
+     - check in the browser to see if that route returns that view
+     - read the error.
+     - Click on buttons
+     - read the error
+   - Is there a more efficient way of doing this?  Zach: This is called integration testing, and the framework to test this is called Selinuium. 
