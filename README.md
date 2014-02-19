@@ -78,5 +78,7 @@ questions
 - [How to search with grep in a directory?](Ksolo)
     <code> grep -r READ -i ./ </code>
 
-
-
+- [How to set up git so that commit messages say they are from me](http://git-scm.com/book/en/Getting-Started-First-Time-Git-Setup)
+   -Thank you for the link, Jss 
+      $ git config --global user.name "John Doe"
+      $ git config --global user.email johndoe@example.com
