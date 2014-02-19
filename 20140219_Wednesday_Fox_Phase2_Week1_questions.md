@@ -1,5 +1,7 @@
 #Questions
 
+
+
 - [What is an ActiveRecord BeforeSave callback?](http://api.rubyonrails.org/classes/ActiveRecord/Callbacks.html)
   Jess: it is something that happens before a record is saved into the database. 
 
@@ -15,6 +17,11 @@
 - [Important points: Keven: NEVER EVER EVER EVER SAVE PASSWORDS AS PLAIN TEXT IN THE DATABASE]()
    - Find a library that you want to use. Scramble the password.  Remove password from logfiles. DO NOT STORE PASSWORDS IN PLAINTEXT. 
 
-   
+- [typing each parameter individually into the Activerecord create is long and boring.]()
+    stick all of the attributes you need into a params hash subhash and just pass in the subhash. 
 
+
+   
+-[Is there such a think as committing too much?](https://github.com/tararoys/url_shortener/commits/master)
+      -Review of our commit history. 
    
