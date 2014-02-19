@@ -94,4 +94,6 @@ questions
 
   
 
-
+- [How does Zach the TA like to teach?]()
+   - likes people to raise hands for questions. Don't shout-out. 
+   - likes to randomly call on people 
