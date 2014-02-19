@@ -82,3 +82,16 @@ questions
    -Thank you for the link, Jss 
       $ git config --global user.name "John Doe"
       $ git config --global user.email johndoe@example.com
+
+- [What are sessions in Sinatra?]()
+  -Analogy: A session is like a secret handshake. One person is the server. The other person is the client.  Both have to know the secret hanshake. 
+  - History:  Once upon a time there were only links.  Through the links the internet was born. Then fatcats were like, how can we make money?  People like personalized service, so they said, let's make web more personal. If people thought the web knew them personally, they would spend more money.  The cookie was born.  The cookie is actually a session. The cookie stores information about your visit.  People were creeped out by the cookie because they found out that something was following them around and tracking them.  What if we renamed cookies to sessions?  
+   - Where does the client person store information about how to store secret information?  
+   - you can look in headers to find the cookie.  The cookie is where the client keeps his half of the secret handshake. 
+   - you can use pry to see the client sending the cookie to the server.  In other words, the person is comming towards me with a grin and her part of the secret handshake, I have to know how to respond to that handshake, or I can't be a part of her club and can't watch what she does.  
+   - Now, the cookie doesn't mean anything if the server doesn't know the secret handshake.  You enable sessions in the config.ru
+   - Once the secret handshake happens, the server takes that as permission to follow the client around and watch their every move. This can be creepy or flattering, depending on the motives and if the client knows he/she is being watched. 
+
+  
+
+
