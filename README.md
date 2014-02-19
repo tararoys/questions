@@ -97,3 +97,22 @@ questions
 - [How does Zach the TA like to teach?]()
    - likes people to raise hands for questions. Don't shout-out. 
    - likes to randomly call on people 
+
+- [no acceptor (port is in use or requires root privileges)](https://github.com/tararoys/SurveyDBC/blob/TLR/Tests/README.md#no-acceptor-port-is-in-use-or-requires-root-privileges)
+     - The above link is wrong. Here is a correction
+         px ax | grep ruby #this command will find two processe
+
+      -The output should look like this: there should be two things in the list 
+  
+         27235   ??  S      0:00.72 /Users/tlroys/.rvm/gems/ruby-1.9.3-p484/bin/shotgun      
+         27393 s000  S+     0:00.00 grep ruby
+   
+     - The first one is the actual 'zombie server' you are looking for. The second thing is funny, because you are looking for all processes that contains the word ruby, and so it find the process that is looking for all processes that contain the word ruby. Haha. 
+     
+      - Kill the first process. with the following command: 
+      
+           kill -9 27235
+          
+         The number in this kill function is the process number. 
+   
+         
