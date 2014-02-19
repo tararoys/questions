@@ -18,15 +18,19 @@
    - Find a library that you want to use. Scramble the password.  Remove password from logfiles. DO NOT STORE PASSWORDS IN PLAINTEXT. 
 
 - [typing each parameter individually into the Activerecord create is long and boring.]()
-    stick all of the attributes you need into a params hash subhash and just pass in the subhash. 
-
-
+   - stick all of the attributes you need into a params hash subhash and just pass in the subhash. 
+   - The google keywords are: ActiveRecord Mass Commits
    
--[Is there such a think as committing too much?](https://github.com/tararoys/url_shortener/commits/master)
+- [Is there such a think as committing too much?](https://github.com/tararoys/url_shortener/commits/master)
       - Review of our commit history. 
       - When committing in your own branch, you cannot quit too much. 
       - When doing a pull request, you do a squash.  This allows you to clean up the commit history to make it look clearner.  It may be good practice to clean up the commmits.
       - Whatever your team decides to do is more important that a personal preference.  
       - Good, meaningful comit message. 
-      -  One line, one blank line, full detailed message.   Top-line is subject line of e-mail, body is body of email.  
+      -  One line, one blank line, full detailed message.   Top-line is subject line of e-mail, body is body of email. 
+      -  How core do you think git is?  It is a very useful tool. 
+      -  Pull request method is the best method.  Make sure you give current methods a fair shot.  
+      -  Frame workflow issues  as 'let's do this better!' as opposed to 'You're doing it wrong."
+
+
       
