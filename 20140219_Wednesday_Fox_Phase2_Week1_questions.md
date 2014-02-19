@@ -23,5 +23,10 @@
 
    
 -[Is there such a think as committing too much?](https://github.com/tararoys/url_shortener/commits/master)
-      -Review of our commit history. 
-   
+      - Review of our commit history. 
+      - When committing in your own branch, you cannot quit too much. 
+      - When doing a pull request, you do a squash.  This allows you to clean up the commit history to make it look clearner.  It may be good practice to clean up the commmits.
+      - Whatever your team decides to do is more important that a personal preference.  
+      - Good, meaningful comit message. 
+      -  One line, one blank line, full detailed message.   Top-line is subject line of e-mail, body is body of email.  
+      
