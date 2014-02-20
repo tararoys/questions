@@ -17,5 +17,29 @@
   - It is a nickname. 
   - For example: Sam is a much shorter way to write Samantha.  Programmers are lazy.  $.hide() is a much shorter way to write jquery.hide()
   
-
+[How do I keep up with all of the bits of information in lecture?]()
+    - Speed up typing: unlikely
+    - Make the instructor slow down: no
+    - Hit the high points and watch the movie later: what if there is no movie? Ask Kevin for the source code.
+    - Can I get my notes from Cristin?  Oooh, what if I linked my daily question log to Cristin's github repository? 
   
+[Is it possible to rephrase every complaint as a question?]()
+    yes?
+
+[Should I give kudos to the person who spoke up and said that th lecture was going too fast?]()
+  Yes. 
+  - People for whom there are too many new concepts per minute: me and one other person
+
+[How do you use ajax to get a small bit of html from a server?]()
+  - Analogy: you are asking the lego factory to send you one new lego. 
+  - Use Jquery.gets
+  - Read Kevin's source code
+
+[How do you use ajax to send data from a form that did not exist when the page was first loaded?]
+  - You have to use optional second argument to onsubmit argument in the jquery submit function. 
+
+[What are the twenty separate things you need to understand have ajax create a form and submit the data back to the server?]
+  - Read Kevin's source code
+  - Ask lots of questions during recitation. 
+  - Want to know how to build this step by step so that I can test every new line of Jquery/javascript/html magic. 
+
