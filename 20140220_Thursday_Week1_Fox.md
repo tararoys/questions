@@ -43,3 +43,7 @@
   - Ask lots of questions during recitation. 
   - Want to know how to build this step by step so that I can test every new line of Jquery/javascript/html magic. 
 
+Can I build a better question recording workflow?
+Annoyances: 
+- Having to remember to copy the question to the commit log if I want to have a pretty list of the questions I have asked. 
+- Solution: type the question in the commit log form and paste it into the file before committing.
