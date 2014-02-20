@@ -15,4 +15,7 @@
 [What the hell is an alias?]()
  
   - It is a nickname. 
-  - For example: 
+  - For example: Sam is a much shorter way to write Samantha.  Programmers are lazy.  $.hide() is a much shorter way to write jquery.hide()
+  
+
+  
