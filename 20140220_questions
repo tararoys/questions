@@ -1,0 +1,6 @@
+[What is ajax?]()
+  Analogy: Server and Client are getting a divorce, and don't want to talk to eachother anymore.  The client highers a lawyer.  The lawyer talks to the server.  The server talks to the lawyer.  
+  Kevin's Better analogy:  Build a house of legos.  That is your webpage. Now, say you want to change one brick. You would need to pack the house in a box, send it back to the lego factory, and it returns three days later with that one brick changed.  With Ajax, you can just swap out the one brick yourself. 
+  
+  
+
