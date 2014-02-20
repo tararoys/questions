@@ -61,3 +61,10 @@ Annoyances:
   -note: don't get into conversations with more information than you can effectively record in 5 minutes. Damn, I missed 10 important bits of info that I don't have time to process." 
 
  
+Who do I know who knows Tmux?
+People make javascript way harder than it really is. 
+  Watching zach ship me a pull request. 
+  He is doing tmux magic.  
+  1. Told zach paragraph that boils down to: give me the entire IRB history.  Stick it in a branch and 
+  Watch Zach to Vim magic.  
+  Zach has never worked on a project where he had to make a pull request. 
