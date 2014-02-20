@@ -11,4 +11,8 @@
 [What is that $ in Jquery?]()
 
   it is an alias for jquery.  
-  
+
+[What the hell is an alias?]()
+ 
+  - It is a nickname. 
+  - For example: 
