@@ -47,3 +47,17 @@ Can I build a better question recording workflow?
 Annoyances: 
 - Having to remember to copy the question to the commit log if I want to have a pretty list of the questions I have asked. 
 - Solution: type the question in the commit log form and paste it into the file before committing.
+
+
+[What do you think of the following workflow?]
+  
+ Answers: Before consulting an instructor, google for two minutes, test on the terminal for two mintues, spend five minutes writing the question up on stakc overflow.
+  "Ick.  Stack overflow has no garuntee of quality." 
+  "If you spend more than five mintues writing up the question on stack overflow, there's a problem." 
+  "The last nine out of 10 qeustions, I've been asked if I have googled it first. I find that demoralizing. I would like to short-circuit that?"
+  instructor paraphrase.."So your asking what the difference is?"
+  "You did not spend 12,000 to be told to find answers on google."
+  "We are graudating students who are so 
+  -note: don't get into conversations with more information than you can effectively record in 5 minutes. Damn, I missed 10 important bits of info that I don't have time to process." 
+
+ 
