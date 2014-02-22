@@ -99,7 +99,7 @@ questions
    - likes to randomly call on people 
 
 - [no acceptor (port is in use or requires root privileges)](https://github.com/tararoys/SurveyDBC/blob/TLR/Tests/README.md#no-acceptor-port-is-in-use-or-requires-root-privileges)
-     - The above link is wrong. Here is a correction
+     
          px ax | grep ruby #this command will find two processe
 
       -The output should look like this: there should be two things in the list 
